@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "description": "",
+  "main": "app.js",
+  "license": "MIT",
+  "homepage": "https://github.com/yelisdurmus/socketio-live-balls-uygulamasi",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "semantic": "^2.4.1"
+  }
+}
